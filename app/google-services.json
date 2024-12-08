@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "286587041345",
+    "project_id": "fir-example3-d2c41",
+    "storage_bucket": "fir-example3-d2c41.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286587041345:android:8c0ac67667cb28a1b278c0",
+        "android_client_info": {
+          "package_name": "fastcampus.part2.firebaseexample3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3X6Uc0OjrxwrMkx5lel6h3aKX5fIOcwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
